@@ -1,2 +1,8 @@
-﻿// See https://aka.ms/new-console-template for more information
-Console.WriteLine("Hello, World!");
+﻿// Taller#1 POO
+using System;
+
+public class Time
+{
+    public int hour;
+}
+//Console.WriteLine("Hello, World!");
